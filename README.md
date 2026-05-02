@@ -36,3 +36,4 @@ This repository contains the syllabus and resources for Java developers transiti
 
 ---
 *Created for the Java-to-AI Transition Program.*
+I am running deepseek-r1:14B  with specific modfile which I have added to the project . 
