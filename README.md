@@ -90,3 +90,4 @@ Day 29: Vector Databases (Embeddings and ChromaDB).
 Day 30: Capstone Project: Java-Source-Explorer — A RAG system that uses a local LLM to analyze and explain your legacy Java codebases.
 
 Created for the Java-to-AI Transition Program. Optimized for 14B+ models on Apple Silicon.
+NOTE Disable Inline Suggestions (General VS Code)If Twinny is using standard VS Code inline suggestions, you can turn them off directly:Open Settings (Ctrl+, or Cmd+,).Search for inlineSuggest.enabled.Uncheck the box to disable it
